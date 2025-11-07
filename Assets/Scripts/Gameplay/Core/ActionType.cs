@@ -1,0 +1,1 @@
+﻿public enum ActionType { Stream, Projectile, Instant }
